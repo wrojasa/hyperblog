@@ -32,6 +32,8 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    color: red ;
+    background: rgba(128, 128, 128, 0.241);
 
 }
 
