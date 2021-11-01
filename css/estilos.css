@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: rgb(163, 39, 39);
     text-align: center;
     font-family: "Source Code Pro";
     font-size: 16px;
@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(35, 170, 91);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -30,7 +30,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(170, 103, 103);
     margin: 0 auto;
     color: red ;
     background: rgba(128, 128, 128, 0.241);
